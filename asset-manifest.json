@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Kuwin-Frontend/static/js/main.863a228a.chunk.js",
+    "main.js.map": "/Kuwin-Frontend/static/js/main.863a228a.chunk.js.map",
+    "runtime-main.js": "/Kuwin-Frontend/static/js/runtime-main.0a1c130d.js",
+    "runtime-main.js.map": "/Kuwin-Frontend/static/js/runtime-main.0a1c130d.js.map",
+    "static/js/2.8d709b49.chunk.js": "/Kuwin-Frontend/static/js/2.8d709b49.chunk.js",
+    "static/js/2.8d709b49.chunk.js.map": "/Kuwin-Frontend/static/js/2.8d709b49.chunk.js.map",
+    "index.html": "/Kuwin-Frontend/index.html",
+    "static/js/2.8d709b49.chunk.js.LICENSE.txt": "/Kuwin-Frontend/static/js/2.8d709b49.chunk.js.LICENSE.txt",
+    "static/media/Changa-Medium.d3340c8d.ttf": "/Kuwin-Frontend/static/media/Changa-Medium.d3340c8d.ttf",
+    "static/media/ChangaOne-Regular.78c9d6c4.ttf": "/Kuwin-Frontend/static/media/ChangaOne-Regular.78c9d6c4.ttf",
+    "static/media/Desktoptokenomics.4b9f36ed.png": "/Kuwin-Frontend/static/media/Desktoptokenomics.4b9f36ed.png",
+    "static/media/DistribBanner.cffd9df9.svg": "/Kuwin-Frontend/static/media/DistribBanner.cffd9df9.svg",
+    "static/media/Gitlogo.79cc5e4f.svg": "/Kuwin-Frontend/static/media/Gitlogo.79cc5e4f.svg",
+    "static/media/Kuwinlogo.6b5f9ac1.svg": "/Kuwin-Frontend/static/media/Kuwinlogo.6b5f9ac1.svg",
+    "static/media/Mediumlogo.e1fd1f3c.svg": "/Kuwin-Frontend/static/media/Mediumlogo.e1fd1f3c.svg",
+    "static/media/MobileTokenomics.eca9feed.png": "/Kuwin-Frontend/static/media/MobileTokenomics.eca9feed.png",
+    "static/media/Telegramlogo.dd1de5cf.svg": "/Kuwin-Frontend/static/media/Telegramlogo.dd1de5cf.svg",
+    "static/media/bsclogo.5a95d76f.svg": "/Kuwin-Frontend/static/media/bsclogo.5a95d76f.svg",
+    "static/media/twitterlogo.80b3843e.svg": "/Kuwin-Frontend/static/media/twitterlogo.80b3843e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a1c130d.js",
+    "static/js/2.8d709b49.chunk.js",
+    "static/js/main.863a228a.chunk.js"
+  ]
+}
