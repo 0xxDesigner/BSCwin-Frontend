@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/BSCwin-Frontend/static/js/main.8e6c1b60.chunk.js",
-    "main.js.map": "/BSCwin-Frontend/static/js/main.8e6c1b60.chunk.js.map",
+    "main.js": "/BSCwin-Frontend/static/js/main.fb6b8af8.chunk.js",
+    "main.js.map": "/BSCwin-Frontend/static/js/main.fb6b8af8.chunk.js.map",
     "runtime-main.js": "/BSCwin-Frontend/static/js/runtime-main.5f5d7bd6.js",
     "runtime-main.js.map": "/BSCwin-Frontend/static/js/runtime-main.5f5d7bd6.js.map",
-    "static/js/2.e2edc7a3.chunk.js": "/BSCwin-Frontend/static/js/2.e2edc7a3.chunk.js",
-    "static/js/2.e2edc7a3.chunk.js.map": "/BSCwin-Frontend/static/js/2.e2edc7a3.chunk.js.map",
+    "static/js/2.97a74008.chunk.js": "/BSCwin-Frontend/static/js/2.97a74008.chunk.js",
+    "static/js/2.97a74008.chunk.js.map": "/BSCwin-Frontend/static/js/2.97a74008.chunk.js.map",
     "index.html": "/BSCwin-Frontend/index.html",
-    "static/js/2.e2edc7a3.chunk.js.LICENSE.txt": "/BSCwin-Frontend/static/js/2.e2edc7a3.chunk.js.LICENSE.txt",
+    "static/js/2.97a74008.chunk.js.LICENSE.txt": "/BSCwin-Frontend/static/js/2.97a74008.chunk.js.LICENSE.txt",
     "static/media/Changa-Medium.d3340c8d.ttf": "/BSCwin-Frontend/static/media/Changa-Medium.d3340c8d.ttf",
     "static/media/ChangaOne-Regular.78c9d6c4.ttf": "/BSCwin-Frontend/static/media/ChangaOne-Regular.78c9d6c4.ttf",
     "static/media/Desktoptokenomics.4b9f36ed.png": "/BSCwin-Frontend/static/media/Desktoptokenomics.4b9f36ed.png",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5f5d7bd6.js",
-    "static/js/2.e2edc7a3.chunk.js",
-    "static/js/main.8e6c1b60.chunk.js"
+    "static/js/2.97a74008.chunk.js",
+    "static/js/main.fb6b8af8.chunk.js"
   ]
 }
