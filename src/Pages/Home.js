@@ -1,4 +1,4 @@
-import React from "react";
+import { useState, useEffect } from 'react';
 import PreSale from "../components/CardPreSale/PreSale";
 import CardAbout from "../components/CardAbout/CardAbout";
 import CardHowToPlay from "../components/CardHowTo/CardHowToPlay";
@@ -7,11 +7,27 @@ import { Typography } from "@material-ui/core";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import { useTheme } from "@material-ui/core/styles";
 import { useStyles } from "./styles";
+import {connectWallet, getUserBalance} from '../utils/Contract';
 
 function Home({refs}) {
   const classes = useStyles();
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.down("sm"));
+  const [userWallet, setUserWallet] = useState(0);
+  const [userBalance, setUserBalance] = useState(0);
+
+  async function connectAddress() {
+    let accounts = await connectWallet();
+    setUserWallet(accounts);
+  }
+
+  useEffect(() => {   
+    async function load() {
+        setUserBalance(await getUserBalance());
+
+    }
+    load()
+  }, []);
 
   return (
     <div
@@ -28,12 +44,17 @@ function Home({refs}) {
     >
       <PreSale />
       {matches && (
-        <div className={`${classes.divButton} ${classes.iconHover}`}>
-          <Typography className={classes.textButton}>Connect</Typography>
+        
+        <div onClick={() => connectAddress()} className={`${classes.divButton} ${classes.iconHover}`}>
+          {userWallet && userWallet.length > 0 ?
+              <Typography className={classes.textButton}>...{userWallet[0].substr(userWallet[0].length - 8)}</Typography>
+              :
+              <Typography className={classes.textButton}>Connect</Typography>
+          }
         </div>
       )}
       <div style={{ marginTop: 30, marginBottom: 30 }}>
-        <Typography className={classes.text}>Your ownership -</Typography>
+        <Typography className={classes.text}>Your ownership - {userBalance}</Typography>
         <Typography className={classes.text}>Total earnings: -</Typography>
       </div>
       <div className={classes.divWallet}>
