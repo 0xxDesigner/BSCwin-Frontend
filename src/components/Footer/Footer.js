@@ -23,7 +23,7 @@ function Footer() {
             <Typography className={classes.textTitles}>Learn More</Typography>
             <div className={classes.containerLogo}>
               <Link
-                href={"https://kuwin.gitbook.io/kuwin/"}
+                href={"https://doc.bscwin.app/"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -45,7 +45,7 @@ function Footer() {
                 <Bsc fill="white" className={classes.iconHover} />
               </Link>
               <Link
-                href={"https://medium.com/@kuwin/4cfced591b72"}
+                href={" https://bscwin.medium.com/"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -61,7 +61,7 @@ function Footer() {
             </Typography>
             <div className={classes.containerLogo}>
               <Link
-                href={"https://twitter.com/Kuwin_token"}
+                href={"https://twitter.com/BSCWIN_token"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -70,7 +70,7 @@ function Footer() {
                 <Twitter fill="white" className={classes.iconHover} />
               </Link>
               <Link
-                href={"https://t.me/KUWIN_Token"}
+                href={"https://t.me/BSCWIN_Token"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -89,7 +89,7 @@ function Footer() {
             </Typography>
             <div className={classes.containerLogo}>
               <Link
-                href={"https://twitter.com/Kuwin_token"}
+                href={"https://twitter.com/BSCWIN_token"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -98,7 +98,7 @@ function Footer() {
                 <Twitter fill="white" className={classes.iconHover} />
               </Link>
               <Link
-                href={"https://t.me/KUWIN_Token"}
+                href={"https://t.me/BSCWIN_Token"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -112,7 +112,7 @@ function Footer() {
             <Typography className={classes.textTitles}>Learn More</Typography>
             <div className={classes.containerLogo}>
               <Link
-                href={"https://kuwin.gitbook.io/kuwin/"}
+                href={"https://doc.bscwin.app/"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
@@ -131,7 +131,7 @@ function Footer() {
                 <Bsc fill="white" className={classes.iconHover} style={{marginRight: 20}}/>
               </Link>
               <Link
-                href={"https://medium.com/@kuwin/4cfced591b72"}
+                href={" https://bscwin.medium.com/"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"

@@ -57,8 +57,15 @@ const useStyles = makeStyles((theme) => ({
     [theme.breakpoints.down('sm')]:{
         height: 30,
     }
-  }
-  
+  },
+  iconHover: {
+    cursor: "pointer",
+    transition: "transform 0.15s ease-in-out",
+    "&:hover": {
+      opacity: 0.6,
+      transform: "scale3d(1.05, 1.05, 1)",
+    },
+  },
 }));
 
 export { useStyles };

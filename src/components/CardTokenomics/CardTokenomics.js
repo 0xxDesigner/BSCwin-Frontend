@@ -52,7 +52,7 @@ function CardTokenomics({ refs }) {
             }}
             paragraph
           >
-            1. Total supply of 7,000,000 KUWIN
+            1. Total supply of 7,000,000 BSCWIN
           </Typography>
           <Typography
             className={classes.text}

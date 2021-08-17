@@ -49,7 +49,7 @@ function CardHowToPlay({ refs }) {
             }}
             paragraph
           >
-            1. <span style={{ color: "rgba(17, 186, 99, 1)" }}>$KUWIN</span> is
+            1. <span style={{ color: "#FFC700",textDecoration: 'underline' }}>$BSCWIN</span> is
             our native token
           </Typography>
           <Typography
@@ -60,7 +60,7 @@ function CardHowToPlay({ refs }) {
             }}
             paragraph
           >
-            2. One <span style={{ color: "rgba(17, 186, 99, 1)" }}>$KUWIN</span>{" "}
+            2. One <span style={{ color: "#FFC700", textDecoration: 'underline' }}>$BSCWIN</span>{" "}
             will get you one Lottery entry automatically
           </Typography>
           <Typography
@@ -72,7 +72,7 @@ function CardHowToPlay({ refs }) {
             paragraph
           >
             3. Thats it! the more{" "}
-            <span style={{ color: "rgba(17, 186, 99, 1)" }}>$KUWIN</span> you
+            <span style={{ color: "#FFC700",textDecoration: 'underline' }}>$BSCWIN</span> you
             have, the better your chances!
           </Typography>
           <Typography
@@ -84,7 +84,7 @@ function CardHowToPlay({ refs }) {
             paragraph
           >
             Tips: if your are watching the countdown, our Smart scanner might
-            recommend you to buy some more $KUWIN to give you the best chance of
+            recommend you to buy some more $BSCWIN to give you the best chance of
             winning that draw!
           </Typography>
         </div>

@@ -8,7 +8,7 @@ const useStyles = makeStyles((theme) => ({
         paddingRight: '6%'
     },
   text:{
-    color: "white",
+    color: "black",
     fontFamily: "Changa",
     fontWeight: 400,
     fontSize: 18,
@@ -22,10 +22,10 @@ const useStyles = makeStyles((theme) => ({
       height: 57,
       borderRadius: 8,
       background: 'transparent',
-      border: '2px solid #FFFFFF'
+      border: '2px solid #000000'
   },
   textButton:{
-    color: "white",
+    color: "black",
     fontFamily: "ChangaOne",
     fontWeight: 400,
     fontSize: 24,

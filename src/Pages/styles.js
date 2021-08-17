@@ -8,7 +8,7 @@ const useStyles = makeStyles((theme) => ({
     fontSize: 24,
   },
   text: {
-    color: "white",
+    color: "black",
     fontFamily: "Changa",
     fontWeight: 500,
     fontSize: 18,
@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
     marginTop: 30
 },
 textButton:{
-  color: "white",
+  color: "black",
   fontFamily: "ChangaOne",
   fontWeight: 400,
   fontSize: 24,

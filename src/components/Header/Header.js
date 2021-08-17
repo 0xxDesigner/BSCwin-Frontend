@@ -18,7 +18,7 @@ function Header({ refs }) {
   };
 
   return (
-    <div style={{paddingBottom: 100}}>
+    <div style={{paddingBottom: !matches ? 0 : 100}}>
       <AppBar
         position="static"
         style={{ background: "transparent", paddingTop: matches ? 50 : 10 }}

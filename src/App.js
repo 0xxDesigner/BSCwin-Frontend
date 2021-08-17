@@ -47,7 +47,7 @@ const App = () => {
         <div
           style={{
             background:
-              "radial-gradient(50% 50% at 50% 50%, #11BA63 0%, #49FFA1 0.01%, #1CA860 97.92%)",
+              "radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, #FFFFFF 0.01%, #FFC700 97.92%)",
             width: "100%",
             height: "100%",
             position: 'relative'
