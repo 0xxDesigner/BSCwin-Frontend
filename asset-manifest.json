@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.1bfcc3fe.chunk.js",
-    "main.js.map": "/static/js/main.1bfcc3fe.chunk.js.map",
+    "main.js": "/static/js/main.14e556d2.chunk.js",
+    "main.js.map": "/static/js/main.14e556d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4eb9c5de.js",
     "runtime-main.js.map": "/static/js/runtime-main.4eb9c5de.js.map",
-    "static/js/2.5f6648a1.chunk.js": "/static/js/2.5f6648a1.chunk.js",
-    "static/js/2.5f6648a1.chunk.js.map": "/static/js/2.5f6648a1.chunk.js.map",
+    "static/js/2.4f8d78a4.chunk.js": "/static/js/2.4f8d78a4.chunk.js",
+    "static/js/2.4f8d78a4.chunk.js.map": "/static/js/2.4f8d78a4.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.5f6648a1.chunk.js.LICENSE.txt": "/static/js/2.5f6648a1.chunk.js.LICENSE.txt",
+    "static/js/2.4f8d78a4.chunk.js.LICENSE.txt": "/static/js/2.4f8d78a4.chunk.js.LICENSE.txt",
     "static/media/Changa-Medium.d3340c8d.ttf": "/static/media/Changa-Medium.d3340c8d.ttf",
     "static/media/ChangaOne-Regular.78c9d6c4.ttf": "/static/media/ChangaOne-Regular.78c9d6c4.ttf",
     "static/media/Desktoptokenomics.4b9f36ed.png": "/static/media/Desktoptokenomics.4b9f36ed.png",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4eb9c5de.js",
-    "static/js/2.5f6648a1.chunk.js",
-    "static/js/main.1bfcc3fe.chunk.js"
+    "static/js/2.4f8d78a4.chunk.js",
+    "static/js/main.14e556d2.chunk.js"
   ]
 }
