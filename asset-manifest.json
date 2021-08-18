@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/static/js/main.f0498758.chunk.js",
-    "main.js.map": "/static/js/main.f0498758.chunk.js.map",
+    "main.js": "/static/js/main.1bfcc3fe.chunk.js",
+    "main.js.map": "/static/js/main.1bfcc3fe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4eb9c5de.js",
     "runtime-main.js.map": "/static/js/runtime-main.4eb9c5de.js.map",
-    "static/js/2.ad6fda74.chunk.js": "/static/js/2.ad6fda74.chunk.js",
-    "static/js/2.ad6fda74.chunk.js.map": "/static/js/2.ad6fda74.chunk.js.map",
+    "static/js/2.5f6648a1.chunk.js": "/static/js/2.5f6648a1.chunk.js",
+    "static/js/2.5f6648a1.chunk.js.map": "/static/js/2.5f6648a1.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.ad6fda74.chunk.js.LICENSE.txt": "/static/js/2.ad6fda74.chunk.js.LICENSE.txt",
+    "static/js/2.5f6648a1.chunk.js.LICENSE.txt": "/static/js/2.5f6648a1.chunk.js.LICENSE.txt",
     "static/media/Changa-Medium.d3340c8d.ttf": "/static/media/Changa-Medium.d3340c8d.ttf",
     "static/media/ChangaOne-Regular.78c9d6c4.ttf": "/static/media/ChangaOne-Regular.78c9d6c4.ttf",
     "static/media/Desktoptokenomics.4b9f36ed.png": "/static/media/Desktoptokenomics.4b9f36ed.png",
-    "static/media/DistribBanner.12fc0067.svg": "/static/media/DistribBanner.12fc0067.svg",
-    "static/media/Gitlogo.2c6a7dd0.svg": "/static/media/Gitlogo.2c6a7dd0.svg",
-    "static/media/Kuwinlogo.ae894020.svg": "/static/media/Kuwinlogo.ae894020.svg",
-    "static/media/Mediumlogo.edc41631.svg": "/static/media/Mediumlogo.edc41631.svg",
+    "static/media/DistribBanner.8f377878.svg": "/static/media/DistribBanner.8f377878.svg",
+    "static/media/Gitlogo.79cc5e4f.svg": "/static/media/Gitlogo.79cc5e4f.svg",
+    "static/media/Kuwinlogo.c7055ca5.svg": "/static/media/Kuwinlogo.c7055ca5.svg",
+    "static/media/Mediumlogo.e1fd1f3c.svg": "/static/media/Mediumlogo.e1fd1f3c.svg",
     "static/media/MobileTokenomics.eca9feed.png": "/static/media/MobileTokenomics.eca9feed.png",
-    "static/media/Telegramlogo.527d0c5e.svg": "/static/media/Telegramlogo.527d0c5e.svg",
-    "static/media/bsclogo.dd76cab2.svg": "/static/media/bsclogo.dd76cab2.svg",
-    "static/media/twitterlogo.8d3337aa.svg": "/static/media/twitterlogo.8d3337aa.svg"
+    "static/media/Telegramlogo.dd1de5cf.svg": "/static/media/Telegramlogo.dd1de5cf.svg",
+    "static/media/bsclogo.5a95d76f.svg": "/static/media/bsclogo.5a95d76f.svg",
+    "static/media/twitterlogo.80b3843e.svg": "/static/media/twitterlogo.80b3843e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4eb9c5de.js",
-    "static/js/2.ad6fda74.chunk.js",
-    "static/js/main.f0498758.chunk.js"
+    "static/js/2.5f6648a1.chunk.js",
+    "static/js/main.1bfcc3fe.chunk.js"
   ]
 }
