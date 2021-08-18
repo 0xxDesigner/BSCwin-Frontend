@@ -1,9 +1,6 @@
 import React, { createRef, useState } from "react";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import {
-  ThemeProvider,
-  createTheme,
-} from "@material-ui/core/styles";
+import { ThemeProvider, createTheme } from "@material-ui/core/styles";
 import { changa, changaOne } from "./Theme";
 import Header from "./components/Header/Header";
 import Home from "./Pages/Home";
@@ -34,12 +31,14 @@ const mytheme = createTheme({
 
 const App = () => {
   const [refs, setRefs] = useState({
-    'Tokenomics': createRef(),
-    'HowTo': createRef(),
-    'About': createRef(),
-    'Lotteryboard': createRef(),
+    Tokenomics: createRef(),
+    HowTo: createRef(),
+    About: createRef(),
+    Lotteryboard: createRef(),
   });
 
+  const [userWallet, setUserWallet] = useState(0);
+  const [userBalance, setUserBalance] = useState(0);
 
   return (
     <ThemeProvider theme={mytheme}>
@@ -50,13 +49,28 @@ const App = () => {
               "radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, #FFFFFF 0.01%, #FFC700 97.92%)",
             width: "100%",
             height: "100%",
-            position: 'relative'
+            position: "relative",
           }}
         >
-         
-          <Header refs={refs}/>
-          <Home refs={refs}/>
-          <Footer/>
+          <Header
+            {...{
+              userWallet,
+              setUserWallet,
+              userBalance,
+              setUserBalance,
+              refs,
+            }}
+          />
+          <Home
+            {...{
+              userWallet,
+              setUserWallet,
+              userBalance,
+              setUserBalance,
+              refs,
+            }}
+          />
+          <Footer />
         </div>
       </CssBaseline>
     </ThemeProvider>
