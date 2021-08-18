@@ -98,7 +98,7 @@ function PreSale({ refs }) {
           marginTop: 35,
         }}
       >
-        Minimum Contribution of $250
+        Max contribution of $250 BUSD
       </Typography>
       <Link
         href={

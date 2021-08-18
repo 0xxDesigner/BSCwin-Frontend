@@ -49,8 +49,7 @@ function CardAbout({ refs }) {
             }}
             paragraph
           >
-            1. BSCWIN aims to provide the first fully decentralized and
-            sustainable lottery on the BSC network.
+            1. BSCWIN aims to provide the first fully sustainable lottery on the BSC network.
           </Typography>
           <Typography
             className={classes.text}
