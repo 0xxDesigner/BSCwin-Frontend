@@ -23,7 +23,7 @@ function Footer() {
             <Typography className={classes.textTitles}>Learn More</Typography>
             <div className={classes.containerLogo}>
               <Link
-                href={"https://doc.bscwin.app/"}
+                href={"https://docs.bscwin.app/"}
                 rel="noopener noreferrer"
                 color="inherit"
                 target="_blank"
